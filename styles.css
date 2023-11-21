@@ -1,0 +1,86 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', Arial, sans-serif;
+    background-color: #016f32;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    color: goldenrod;
+}
+
+#message-el {
+    font-style: italic;
+    font-size: x-large;
+    color: rgb(43, 226, 226);
+}
+
+button {
+    color: #016f32;
+    width: 150px;
+    background: goldenrod;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+}
+div{
+    display: flex;
+}
+
+.cardImg {
+    height: 300px;
+    width: 200px;
+    border: 6px solid white;
+    border-radius: 15px;
+  
+    background-size: cover;
+    margin-left: 10px;
+}
+.cardImg2 {
+    height: 300px;
+    width: 200px;
+    border: 6px solid white;
+    border-radius: 15px;
+   
+    background-size: cover;
+    margin-left: 10px;
+}
+.cardImg3 {
+    height: 300px;
+    width: 200px;
+    border: 6px solid white;
+    border-radius: 15px;
+   
+    background-size: cover;
+    margin-left: 10px;
+}
+.cardImg4 {
+    height: 300px;
+    width: 200px;
+    border: 6px solid white;
+    border-radius: 15px;
+    
+    background-size: cover;
+    margin-left: 10px;
+}
+.cardImg5 {
+    height: 300px;
+    width: 200px;
+    border: 6px solid white;
+    border-radius: 15px;
+   
+    background-size: cover;
+    margin-left: 10px;
+}
+.cardImg6 {
+    height: 300px;
+    width: 200px;
+    border: 6px solid white;
+    border-radius: 15px;
+   
+    background-size: cover;
+    margin-left: 10px;
+}
